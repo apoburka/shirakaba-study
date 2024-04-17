@@ -62,6 +62,7 @@ h3 {
     font-family: var(--font-mono);
     font-size: 1em;
     text-transform: uppercase;
+    margin-top: 3em;
 }
 
 p {
@@ -85,6 +86,10 @@ margin-bottom: 0;
 /*
  Article Classes
 */
+
+#links, #bullet, #section-heading, #gallery__img, #work__text, #work__img, #featured__img, #footer__list {
+margin-top: 3em;
+}
 
 
 .component__name {
